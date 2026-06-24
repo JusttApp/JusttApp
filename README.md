@@ -51,9 +51,27 @@ I'm a Computer Science graduate who likes turning real problems into working sof
 
 ### 📌 Featured Projects
 
-**🎮 [Leap Hero](https://github.com/JusttApp/Leap-Hero)** — a 2D parkour platformer built in **Unity (C#)** with custom movement, enemies, pickups, and a 2-level campaign. *(Gameplay video in the repo!)*
+**🚌 [MSAAR — Smart KAU Bus System](https://github.com/JusttApp/MSAAR-Admin)** *(Senior Project)*
+A real-time campus bus-tracking app (**React Native · Node.js · Express · MongoDB · Firebase**). I owned the entire **Admin role** end to end: requirements, UI/UX, frontend, and backend APIs with JWT auth, capability-based access, and live fleet monitoring.
 
-**🚌 [MSAAR — Smart KAU Bus System](https://github.com/JusttApp/MSAAR-Admin)** *(Senior Project)* — a real-time campus bus-tracking app (**React Native · Node.js · Express · MongoDB · Firebase**). I owned the entire **Admin role** end to end: requirements, UI/UX, frontend, and backend APIs with JWT auth and live fleet monitoring. *(Case study with screenshots & architecture →)*
+<p align="center">
+  <img height="300" src="https://raw.githubusercontent.com/JusttApp/MSAAR-Admin/main/screenshots/Admin_Dashboard.png" alt="MSAAR Admin Dashboard"/>
+  <img height="300" src="https://raw.githubusercontent.com/JusttApp/MSAAR-Admin/main/screenshots/Admin_Fleet.png" alt="MSAAR Fleet Monitoring"/>
+  <img height="300" src="https://raw.githubusercontent.com/JusttApp/MSAAR-Admin/main/screenshots/Demand_Today.png" alt="MSAAR Demand Analytics"/>
+</p>
+
+➡️ **[See the full case study: screenshots, architecture & code →](https://github.com/JusttApp/MSAAR-Admin)**
+
+---
+
+**🎮 [Leap Hero](https://github.com/JusttApp/Leap-Hero)**
+A 2D parkour platformer built in **Unity (C#)** with custom movement, enemies, pickups, and a 2-level campaign.
+
+<p align="center">
+  <img width="500" src="https://raw.githubusercontent.com/JusttApp/Leap-Hero/main/media/leap-hero-preview.gif" alt="Leap Hero gameplay"/>
+</p>
+
+➡️ **[Play it / watch the gameplay →](https://github.com/JusttApp/Leap-Hero)**
 
 ---
 
