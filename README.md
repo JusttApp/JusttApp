@@ -53,7 +53,7 @@ I'm a Computer Science graduate who likes turning real problems into working sof
 
 **🎮 [Leap Hero](https://github.com/JusttApp/Leap-Hero)** — a 2D parkour platformer built in **Unity (C#)** with custom movement, enemies, pickups, and a 2-level campaign. *(Gameplay video in the repo!)*
 
-**🚌 MSAAR — Smart KAU Bus System** *(Senior Project)* — a real-time campus bus-tracking app (**React Native · Node.js · Express · MongoDB · Firebase**). I owned the entire **Admin role** end to end: requirements, UI/UX, frontend, and backend APIs with JWT auth and live fleet monitoring.
+**🚌 [MSAAR — Smart KAU Bus System](https://github.com/JusttApp/MSAAR-Admin)** *(Senior Project)* — a real-time campus bus-tracking app (**React Native · Node.js · Express · MongoDB · Firebase**). I owned the entire **Admin role** end to end: requirements, UI/UX, frontend, and backend APIs with JWT auth and live fleet monitoring. *(Case study with screenshots & architecture →)*
 
 ---
 
