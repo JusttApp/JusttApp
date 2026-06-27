@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Alawi 👋</h1>
+
 <h3 align="center">Software Engineer · Full-Stack & Mobile Developer · CS Graduate @ King Abdulaziz University</h3>
 
 <p align="center">
